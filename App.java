@@ -11,11 +11,11 @@ public class App {
         int lastspaceInSentence = input.lastIndexOf(' ');
         int lastCharachter = input.length();
         while (lastspaceInSentence > -1) {
-            newStr = newStr.concat(" ").concat(input.substring(lastspaceInSentence + 1, lastCharachter));
+            newStr = newStr.concat(input.substring(lastspaceInSentence + 1, lastCharachter)).concat(" ");
             lastCharachter = lastspaceInSentence;
             lastspaceInSentence = input.lastIndexOf(' ', lastspaceInSentence - 1);
         }
-        System.out.println(newStr + " " + input.substring(0, lastCharachter));
+        System.out.println(newStr + input.substring(0, lastCharachter));
 
     }
 }
