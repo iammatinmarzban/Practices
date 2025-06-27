@@ -1,4 +1,5 @@
 https://github.com/2dust/v2rayN/releases/download/6.21/zz_v2rayN-With-Core-SelfContained.7z
+https://download.visualstudio.microsoft.com/download/pr/513d13b7-b456-45af-828b-b7b7981ff462/edf44a743b78f8b54a2cec97ce888346/windowsdesktop-runtime-6.0.15-win-x64.exe
 
 
 vless://701a36db-6cd8-41bf-a9e3-69b1cdbd6dcb@151.101.3.8:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2048&host=oFnKGAC26JAs2SXa.xyz#%F0%9F%87%AC%F0%9F%87%A7%20%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20%F0%9F%94%A5
